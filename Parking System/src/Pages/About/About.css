@@ -1,0 +1,22 @@
+.all {
+  background-color: #003D62;
+}
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height  : 99vh;
+    background-size: 100%;
+    max-width: 98vw;
+    width: 550px;
+    margin:auto;
+    color:#9FA3B5;
+    text-align: justify;
+}
+.about h1 {
+  margin-bottom: 20px;;
+}
+.about p {
+  line-height: 40px ;
+}

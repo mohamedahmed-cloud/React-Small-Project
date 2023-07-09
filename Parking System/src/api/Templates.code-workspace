@@ -1,0 +1,41 @@
+{
+  "folders": [
+	{
+		"path": "../../../../../NTI/Templates"
+	},
+	{
+		"path": "../../../../1.Learning Repo/Learning-Journey/BackEndJourney"
+	},
+	{
+		"path": "C:/xampp/htdocs/me"
+	},
+	{
+		"path": "../../../../4.Tasks Repo/Web-training---IEEE-CS23-ZSB"
+	},
+	{
+		"path": "../../../../2.Problem Solving Repo/ICPC-Preparation-2023"
+	},
+	{
+		"path": "../../../../2.Problem Solving Repo/ICPC-Preparation"
+	},
+	{
+		"path": "../../../react_register_form"
+	},
+	{
+		"path": "../.."
+	},
+	{
+		"path": "C:/xampp/htdocs/login-system"
+	},
+	{
+		"path": "../../../../../../Faculty Projects/Parking System Project/AI_Part"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "project-16",
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+  }
+}

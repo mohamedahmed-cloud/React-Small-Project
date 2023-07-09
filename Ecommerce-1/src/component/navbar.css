@@ -1,0 +1,28 @@
+* {
+    outline: none;
+}
+.navbar 
+{
+    background-color: #222;
+    padding:10px;
+
+
+}
+.navbar .links
+{
+    text-align: right;
+    padding:20px 0px;
+
+}
+.navbar .links a {
+    color:white;
+    text-decoration: none;
+    padding:10px;
+    cursor: pointer;
+    border:1px solid transparent;
+}
+.navbar .links a:hover
+{
+    color:#e8e8e8;
+    border-color:#888;
+}

@@ -1,0 +1,104 @@
+div h1 {
+    margin: 20px auto;
+    width:fit-content;
+
+}
+.cartItem {
+    display: flex;
+    justify-content: center;
+}
+.cartItem .content
+{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    width:550px;
+    max-width: 90%;
+    padding:20px;
+    background-color: #eee;
+    border-radius: 20px;
+    font-size:25px;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    margin-bottom:50px;
+}
+.cartItem img {
+    width:200px;
+}
+.inner  p:first-of-type{
+    font-weight: bold;
+    margin-bottom:20px;
+}
+.countHandler {
+    margin-top:20px;
+}
+.countHandler input{
+    caret-color: transparent;
+    width:40px;
+    height:25px;
+    text-align: center;
+    border: none;
+    outline: none;
+}
+.countHandler button {
+    cursor: pointer;
+    width:40px;
+    height: 25px;
+    border:none;
+    outline: none;
+    background-color: #333;
+    color:#eee;
+    font-size: 20px;
+    border-radius: 20px 0px 0px 20px;
+}
+.countHandler button.add {
+    border-radius: 0px 20px 20px 0px;
+
+}
+.cart .footer p
+{
+    width:fit-content;
+    margin: auto;
+    font-size: 25px;
+    font-weight: bold;  
+}
+.cart .footer div {
+    display: flex;
+    justify-content: center;
+
+}
+.cart .footer div button {
+    border: none;
+    outline: none;
+    background-color: #222;
+    border-radius: 20px;
+    cursor: pointer;
+    color:#eee;
+    font-weight: bold;
+    font-size: 20px;
+    transition:1s all ease;
+    padding:10px 20px;
+    margin-top:40px;
+    margin-bottom:100px;
+}
+.footer .btn1 {
+    margin-right: 20px;
+}
+.footer .btn2 {
+    margin-left: 10px;
+}
+.cart .footer div button:hover {
+
+    background-color: #eee;
+    color:#333;
+}
+.alternative {
+    font-size: 30px;
+    font-weight: bold;
+    margin:auto;
+    width: fit-content;
+    background: #222;
+    color:#eeee;
+    padding:15px 40px;
+    border-radius: 30px;
+    margin-top:60px;
+}
