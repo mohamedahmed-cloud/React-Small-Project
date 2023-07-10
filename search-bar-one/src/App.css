@@ -1,0 +1,23 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.parent {
+ width:92%;
+ margin: 20px auto;
+
+}
+input[type="search"] {
+    width:400px;
+    margin:auto;
+    display: block;
+    border-radius: 20px;
+    border:1px solid #323232;
+    padding:10px;
+    font-size: 18px;
+}
+.parent>div {
+    margin:40px 0px;
+    color:#232;
+}
